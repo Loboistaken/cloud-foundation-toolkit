@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.14.1](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/compare/infra/blueprint-test/v0.14.0...infra/blueprint-test/v0.14.1) (2024-04-25)
+
+
+### Bug Fixes
+
+* **deps:** bump golang.org/x/net from 0.17.0 to 0.23.0 in /infra/blueprint-test ([#2272](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/issues/2272)) ([1dd1e00](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/commit/1dd1e008953eac31f78d15d5c996e983508deb2a))
+* **deps:** update module github.com/hashicorp/terraform-json to v0.21.0 ([#2289](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/issues/2289)) ([77e37e6](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/commit/77e37e65c4e7b72b97f79ca7fd714e2dc38bf6cc))
+
 ## [0.14.0](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/compare/infra/blueprint-test/v0.13.2...infra/blueprint-test/v0.14.0) (2024-04-09)
 
 
